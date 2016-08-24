@@ -1,9 +1,9 @@
 # Francis Allen
 CINS 110
-               
-               Frances Allen
 
 
+
+Author:  Sheryl Hott    Scientist:  Frances Allen
 
 1) Francis Allen is 84 years old.  She began her career in the mid-1950's as a Math Teacher, but got sidetracked into computers in an attempt to pay off her student loans. 
 
